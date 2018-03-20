@@ -2,7 +2,15 @@
 My personal configuration for i3.
 
 ## Hardware
-ThinkPad X1 Carbon
+`ThinkPad X1 Carbon`
+
+## Distro
+`Fedora 27`
+
+## Dependencies
+```bash
+sudo dnf install i3 i3status dmenu i3lock xbacklight feh network-manager-applet lxappearance
+```
 
 ## Installation
 ```bash
