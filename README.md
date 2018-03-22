@@ -19,5 +19,6 @@ link i3status.config ~/.config/i3status/config
 ```
 
 ## TODO
-- [ ] Start Dropbox
+- [x] Start Dropbox
 - [ ] Bluetooth indicator
+- [ ] Desktop notifications
