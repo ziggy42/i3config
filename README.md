@@ -17,3 +17,7 @@ sudo dnf install i3 i3status dmenu i3lock xbacklight feh network-manager-applet 
 link i3.config ~/.config/i3/config
 link i3status.config ~/.config/i3status/config
 ```
+
+## TODO
+- [ ] Start Dropbox
+- [ ] Bluetooth indicator
