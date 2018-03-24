@@ -9,7 +9,7 @@ My personal configuration for i3.
 
 ## Dependencies
 ```bash
-sudo dnf install i3 i3status dmenu i3lock xbacklight feh network-manager-applet lxappearance
+sudo dnf install i3 i3status dmenu i3lock xbacklight feh network-manager-applet lxappearance blueman
 ```
 
 ## Installation
