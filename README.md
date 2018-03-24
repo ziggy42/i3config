@@ -18,8 +18,18 @@ link i3.config ~/.config/i3/config
 link i3status.config ~/.config/i3status/config
 ```
 
+## Fix brightness
+Create the file `/etc/X11/xorg.conf` with the following content:
+```
+Section "Device"
+    Identifier  "Card0"
+    Driver      "intel"
+    Option      "Backlight"  "intel_backlight"
+EndSection
+```
+
 ## TODO
 - [x] Start Dropbox
 - [x] Bluetooth indicator
 - [ ] Desktop notifications
-- [ ] Screen brightness
+- [x] Screen brightness
