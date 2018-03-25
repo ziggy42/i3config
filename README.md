@@ -33,3 +33,5 @@ EndSection
 - [x] Bluetooth indicator
 - [ ] Desktop notifications
 - [x] Screen brightness
+- [ ] Colors
+- [ ] i3block theme
