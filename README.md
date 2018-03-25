@@ -36,3 +36,4 @@ EndSection
 - [ ] Colors
 - [ ] i3block theme
 - [ ] move to i3blocks
+- [ ] Order of applets
