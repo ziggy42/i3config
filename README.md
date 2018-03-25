@@ -35,3 +35,4 @@ EndSection
 - [x] Screen brightness
 - [ ] Colors
 - [ ] i3block theme
+- [ ] move to i3bar
