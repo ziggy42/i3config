@@ -35,6 +35,9 @@ eval $(/usr/bin/gnome-keyring-daemon --start --components=pkcs11,secrets,ssh)
 export SSH_AUTH_SOCK
 ```
 
+## Fonts
+Download from [here](https://github.com/supermarin/YosemiteSanFranciscoFont) and place them in `~/.fonts`.
+
 ## TODO
 - [x] Start Dropbox
 - [x] Bluetooth indicator
