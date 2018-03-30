@@ -28,6 +28,13 @@ Section "Device"
 EndSection
 ```
 
+## GNOME keyring
+Create the file `~/.xinitrc` with the followinfg content:
+```
+eval $(/usr/bin/gnome-keyring-daemon --start --components=pkcs11,secrets,ssh)
+export SSH_AUTH_SOCK
+```
+
 ## TODO
 - [x] Start Dropbox
 - [x] Bluetooth indicator
